@@ -83,6 +83,22 @@ Every new concept becomes another **piece of the knowledge puzzle**.
 
 ---
 
+# 📅 Daily Progress
+
+## Day 1 - Python While Loop
+**Topic:** While Loop Fundamentals
+
+**What I Learned:**
+- While loop syntax and control flow
+- Loop conditions and iteration
+
+**Practice Problems:**
+- ✅ Sum of N natural numbers
+- ✅ Counting numbers
+- ✅ Multiplication table
+
+---
+
 # 📖 Why This Exists
 
 This repository serves as:
