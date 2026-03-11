@@ -9,5 +9,6 @@
 - Multiplication
 - Counting of numbers
 
-## Summary
-Today in Day 1, I have completed practicing while and for loops. I have done some problems like sum of n natural numbers, multiplication, and counting of numbers.
+## TCS Problems solved
+- percentage + profit/revenue change
+- arthematic/ numbers
