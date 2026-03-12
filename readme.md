@@ -24,7 +24,7 @@ This repository captures my exploration in areas such as:
 🧩 Data Structures & Algorithms
 🤖 Robotics & Autonomous Systems
 ⚙️ System Design & Software Engineering
-And how see life and my emotional stuff
+And how see life and my emotional stuff and my life journerl which navihates, my tech through my feeling
 
 Each folder represents a **topic, concept, or experiment** that I explored during the journey.
 
